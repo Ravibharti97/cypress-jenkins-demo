@@ -65,7 +65,7 @@ NOTE - CSS is stripped out because of the Content Security Policy in Jenkins. Th
 sandbox; default-src 'none'; img-src 'self'; style-src 'self';
 
 This rule set results in the following:
-
+//
         No JavaScript allowed at all
         No plugins (object/embed) allowed
         No inline CSS, or CSS from other sites allowed
